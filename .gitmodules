@@ -2,3 +2,8 @@
 	path = BIZ4Africa/codup-odoo-eam-fork
 	url = git@github.com:BIZ4Africa/codup-odoo-eam-fork.git
 	branch = 12.0
+
+[submodule "BIZ4Africa/odoo-tools"]
+	path = BIZ4Africa/odoo-tools
+	url = git@github.com:BIZ4Africa/odoo-tools.git
+	branch = 12.0
